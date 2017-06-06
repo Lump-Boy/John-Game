@@ -7,6 +7,8 @@ To update code:
 
 Create Github Account
 
+Let John 2 know that you have so he can add you to allowed editors
+
 **[Download Github Desktop](https://desktop.github.com/)**
 
 Clone Repository: cturner314/John-Game
