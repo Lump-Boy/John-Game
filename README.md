@@ -5,7 +5,7 @@ Edit this file to add any notes, a # will create a heading, **bold** using doubl
 
 # To update code/edit game:
 
-Create Github Account
+**[Create Github Account](https://github.com/join)**
 
 Let John 2 know that you have so he can add you to allowed editors
 
