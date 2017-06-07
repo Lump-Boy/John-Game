@@ -2,7 +2,9 @@
 This is the repository which stores **John**, a (soon to be) award winning game.
 
 John 1 - cturner314
+
 John 2 - Lump-Boy
+
 John 3 - Tim-Teh-Enchanter
 # How It Works
 Edit this file to add any notes, a # will create a heading, **bold** using double asterisks ("**")
